@@ -4,6 +4,10 @@ I'm a 1st-year **Applied Informatics** student at the **Lodz University of Techn
 
 I recently graduated as a **Technik Programista** with top-tier scores (INF-03: 90%, INF-04: 93%), and I'm now leveling up my academic and practical knowledge.
 
+[📄 Download my Resume (PDF)](https://github.com/jakubrobaszek/Resume/blob/main/CV_jakub_robaszek.pdf)
+
+[Polish version](https://github.com/jakubrobaszek/Resume/blob/main/CV_jakub_robaszek_PL.pdf)
+
 ---
 
 **🎓 Education & Current Path:**
