@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jakub!
 
-I'm a 1st-year **Applied Informatics** student at the **Lodz University of Technology** and an aspiring **Machine Learning Engineer**. My world revolves around Python, data-driven problem-solving, and a deep-seated love for Linux environments.
+I'm a 2nd-year **Applied Informatics** student at the **Lodz University of Technology** and an aspiring **Machine Learning Engineer**. My world revolves around Python, data-driven problem-solving, and a deep-seated love for Linux environments.
 
 I recently graduated as a **Technik Programista** with top-tier scores (INF-03: 90%, INF-04: 93%), and I'm now leveling up my academic and practical knowledge.
 
